@@ -19,9 +19,9 @@ beyond tool usage and exploit execution.
 
 ## Structure (Planned)
 -`enumeration/`
-├── nmap-decision-making.md
-├── service-priority.md
-└── when-to-abandon-host.md
+enumeration/nmap-decision-making.md
+service-priority.md
+when-to-abandon-host.md
 
   Decision making during initial reconnaissance
 
