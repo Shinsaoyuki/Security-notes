@@ -18,7 +18,7 @@ To build practical decision-making skills for penetration testing,
 beyond tool usage and exploit execution.
 
 ## Structure (Planned)
-enumeration/
+-`enumeration/`
 ├── nmap-decision-making.md
 ├── service-priority.md
 └── when-to-abandon-host.md
