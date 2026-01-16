@@ -18,20 +18,26 @@ To build practical decision-making skills for penetration testing,
 beyond tool usage and exploit execution.
 
 ## Structure (Planned)
--`enumeration/`
-###enumeration/nmap-decision-making.md
-###service-priority.md
-###when-to-abandon-host.md
-  Decision making during initial reconnaissance
 
-- `web-attacks/`  
-  Web attack viability and abandonment criteria
+### enumeration/
+Decision making during initial reconnaissance.
 
-- `privesc/`  
-  Privilege escalation assessment notes
+- `nmap-decision-making.md`  
+  How to decide next actions based on nmap results
+- `service-priority.md`  
+  Prioritization of exposed services
+- `when-to-abandon-host.md`  
+  Criteria for abandoning a target host
 
-- `documentation/`  
-  Reproducible note and report templates
+### web-attacks/
+Web attack viability and abandonment criteria.
+
+### privesc/
+Privilege escalation assessment notes.
+
+### documentation/
+Reproducible note and report templates.
+
 
 ## Policy
 - No real targets, IP addresses, flags, or full exploits
